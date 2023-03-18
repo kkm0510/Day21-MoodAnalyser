@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1049b0d-b965-444a-aca5-a42488bfaab2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MoodAnalyser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MoodAnalyserTest.java" afterDir="false" />
+    <list default="true" id="e1049b0d-b965-444a-aca5-a42488bfaab2" name="Changes" comment="ADDED : test class">
+      <change beforePath="$PROJECT_DIR$/src/test/java/MoodAnalyserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MoodAnalyserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +17,13 @@
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
   </component>
   <component name="MavenImportPreferences">
@@ -49,7 +50,17 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MoodAnalyserTest.givenIAmInAnyMood_MessageShouldReturnHappy">
+    <configuration name="MoodAnalyserTest.givenIAmInAnyMood_MessageShouldReturnHappy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day21-MoodAnalyser" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MoodAnalyserTest" />
+      <option name="METHOD_NAME" value="givenIAmInAnyMood_MessageShouldReturnHappy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MoodAnalyserTest.givenIAmInSadMood_MessageShouldReturnSad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day21-MoodAnalyser" />
       <option name="PACKAGE_NAME" value="" />
@@ -62,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MoodAnalyserTest.givenIAmInAnyMood_MessageShouldReturnHappy" />
         <item itemvalue="JUnit.MoodAnalyserTest.givenIAmInSadMood_MessageShouldReturnSad" />
       </list>
     </recent_temporary>
@@ -75,6 +87,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679119060982</updated>
     </task>
+    <task id="LOCAL-00001" summary="ADDED : test class">
+      <created>1679120182038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679120182038</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADDED : test class" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDED : test class" />
   </component>
 </project>
