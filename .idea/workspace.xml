@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1049b0d-b965-444a-aca5-a42488bfaab2" name="Changes" comment="ADDED : test class">
+      <change beforePath="$PROJECT_DIR$/src/main/java/MoodAnalyser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MoodAnalyser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/MoodAnalyserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MoodAnalyserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,18 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MoodAnalyserTest.givenIAmInAnyMood_MessageShouldReturnHappy">
+  <component name="RunManager" selected="JUnit.MoodAnalyserTest">
+    <configuration name="MoodAnalyserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day21-MoodAnalyser" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MoodAnalyserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MoodAnalyserTest.givenIAmInAnyMood_MessageShouldReturnHappy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day21-MoodAnalyser" />
       <option name="PACKAGE_NAME" value="" />
@@ -73,6 +83,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MoodAnalyserTest" />
+        <item itemvalue="JUnit.MoodAnalyserTest.givenIAmInSadMood_MessageShouldReturnSad" />
+        <item itemvalue="JUnit.MoodAnalyserTest.givenIAmInAnyMood_MessageShouldReturnHappy" />
         <item itemvalue="JUnit.MoodAnalyserTest.givenIAmInAnyMood_MessageShouldReturnHappy" />
         <item itemvalue="JUnit.MoodAnalyserTest.givenIAmInSadMood_MessageShouldReturnSad" />
       </list>
